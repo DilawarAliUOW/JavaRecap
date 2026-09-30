@@ -14,9 +14,9 @@ public class JavaRecap {
         System.out.printf("%.3f", total);
 
         //instanciate the object
-        ProductTemp p1 = new ProductTemp(1L, "Laptop", 999.99);
+        Product p1 = new Product(1L, "Laptop", 999.99);
 
-        ProductTemp p2 = new ProductTemp(2L, "Headphones", 49.99);
+        Product p2 = new Product(2L, "Headphones", 49.99);
 
         System.out.println(p1.name);
 
