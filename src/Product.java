@@ -1,4 +1,4 @@
-public class Product {
+public class    Product {
     // instance attributed
     Long id;
     String name;
